@@ -5,61 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3777f2c0-df6f-4802-a028-d2a24f423891" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/apples.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/day-1.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/kingston.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/mom.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/nyack.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/persimmons.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/road.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/smokehouse.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/visitny.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/posts/walknc.mdx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_0061.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2917.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2924.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2926.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2927.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2928.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2932.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2933.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2935.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2936.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2937.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2938.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2944.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2947.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2950.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2951.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2952.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2953.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2956.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2957.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2969.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_2971.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8267.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8269.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8291.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8292.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8300.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8302.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8304.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8305.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8308.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/img_8310-1-.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/license.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/lorem-ipsum.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/markdown-syntax.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/references.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/rich-content-with-mdx.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/start.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/test-post.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/posts/welcome.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meta/tags.yml" beforeDir="false" afterPath="$PROJECT_DIR$/meta/tags.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/202973528_1817228795115580_6770059078891478246_n.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/600x300.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638638622610</updated>
-      <workItem from="1638638628672" duration="3308000" />
+      <workItem from="1638638628672" duration="6797000" />
     </task>
     <servers />
   </component>
